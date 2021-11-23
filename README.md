@@ -4,3 +4,6 @@
 ## Summary 
 
 This repository contains all of the notes taken by [Mousumi](https://github.com/MousumiDutta136) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
+## Table of Contents
+* [Week1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
